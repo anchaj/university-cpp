@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1395680176 source:c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\pytanie.cpp
+	"pytanie.h"
+
+1395680169 c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\pytanie.h
+
+1395683191 source:c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\main.cpp
+	"Pytanie.h"
+	"Test.h"
+
+1395680007 source:c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\oceniacz.cpp
+	"Oceniacz.h"
+
+1395680790 c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\oceniacz.h
+	"Pytanie.h"
+
+1395680747 source:c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\oceniaczpojedynczywybor.cpp
+	"OceniaczPojedynczyWybor.h"
+
+1395680747 c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\oceniaczpojedynczywybor.h
+	"Oceniacz.h"
+
+1395680720 source:c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\oceniaczwielokrotnywybor.cpp
+	"OceniaczWielokrotnyWybor.h"
+
+1395680720 c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\oceniaczwielokrotnywybor.h
+	"Oceniacz.h"
+
+1395682688 source:c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\test.cpp
+	"Test.h"
+
+1395682688 c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\test.h
+	<string>
+	<sstream>
+	"Osoba.h"
+	"Pytanie.h"
+	"OceniaczPojedynczyWybor.h"
+
+1395680576 c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\osoba.h
+	<string>
+
+1395680576 source:c:\users\anchaj\desktop\informatyka\code_blocks\polimorfizm\osoba.cpp
+	"osoba.h"
+

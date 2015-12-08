@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1395077415 source:c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\main.cpp
+	<iostream>
+	<stdlib.h>
+	"tablica_double.h"
+	"przedmiot.h"
+	"ksiazka.h"
+	"polka.h"
+
+1395072976 c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\tablica_double.h
+
+1395078006 c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\przedmiot.h
+	<stdlib.h>
+	<string>
+
+1395074302 source:c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\tablica_double.cpp
+	"tablica_double.h"
+
+1395075618 source:c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\przedmiot.cpp
+	"Przedmiot.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+
+1395076733 c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\ksiazka.h
+	<stdlib.h>
+	<string>
+	"Przedmiot.h"
+
+1395076733 source:c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\ksiazka.cpp
+	"Ksiazka.h"
+	<iostream>
+
+1395078089 c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\polka.h
+	<stdlib.h>
+	<string>
+	"Przedmiot.h"
+
+1395077043 source:c:\users\anchaj\desktop\informatyka\code_blocks\dziedziczenie\polka.cpp
+	"Polka.h"
+	<iostream>
+

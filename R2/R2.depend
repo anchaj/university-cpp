@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1388967446 source:c:\users\anchaj\desktop\informatyka\code_blocks\r2\main.cpp
+	<iostream>
+	"source.cpp"
+	<windows.h>
+
+1388967683 c:\users\anchaj\desktop\informatyka\code_blocks\r2\source.cpp
+	"Piekarz.h"
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1388586257 c:\users\anchaj\desktop\informatyka\code_blocks\r2\piekarz.h
+
+1388967431 source:c:\users\anchaj\desktop\informatyka\code_blocks\r2\source.cpp
+	"Piekarz.h"
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1388587983 c:\users\anchaj\desktop\informatyka\code_blocks\r2\main.cpp
+	<iostream>
+	"source.cpp"
+

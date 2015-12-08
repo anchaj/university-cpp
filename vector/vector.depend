@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1398850539 source:c:\users\anchaj\desktop\informatyka\code_blocks\vector\main.cpp
+	<iostream>
+	<stdlib.h>
+	"MojVector.h"
+
+1398850567 c:\users\anchaj\desktop\informatyka\code_blocks\vector\mojvector.h
+	<iostream>
+	<stdexcept>
+

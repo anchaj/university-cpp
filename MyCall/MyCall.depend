@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1396348593 source:c:\users\anchaj\desktop\informatyka\code_blocks\mycall\main.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	"MayCal.h"
+
+1395593813 c:\users\anchaj\desktop\informatyka\code_blocks\mycall\maycall.h
+
+1395593567 source:c:\users\anchaj\desktop\informatyka\code_blocks\mycall\maycall.cpp
+	"MayCall.h"
+
+1397331359 c:\users\anchaj\desktop\informatyka\code_blocks\mycall\maycal.h
+	<iostream>
+	<sstream>
+	<math.h>
+
+1395594881 source:c:\users\anchaj\desktop\informatyka\code_blocks\mycall\maycal.cpp
+	"MayCal.h"
+
+1396348109 c:\users\anchaj\desktop\informatyka\code_blocks\mycall\mycall.h
+	<iostream>
+	<sstream>
+	<math.h>
+

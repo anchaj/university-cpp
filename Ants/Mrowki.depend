@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1396219949 source:c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\main.cpp
+	<iostream>
+	"Mrowka.h"
+	"CzarnaMrowka.h"
+	"RozszerzonaCzarnaMrowka.h"
+	"CzerwonaMrowka.h"
+	"AgresywnaCzerwonaMrowka.h"
+	"LatajacaCzerwonaMrowka.h"
+	"Robotnica.h"
+	"Zolnierz.h"
+	"StatystykaCzerwonejMrowki.h"
+
+1396263705 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\mrowka.h
+	<iostream>
+
+1396264118 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\czarnamrowka.h
+	<iostream>
+	"Mrowka.h"
+
+1397305093 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\rozszerzonaczarnamrowka.h
+	<iostream>
+	"CzarnaMrowka.h"
+
+1396266610 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\czerwonamrowka.h
+	<iostream>
+	"Mrowka.h"
+
+1396265822 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\agresywnaczerwonamrowka.h
+	<iostream>
+	"CzerwonaMrowka.h"
+
+1396266666 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\latajacaczerwonamrowka.h
+	<iostream>
+	"CzerwonaMrowka.h"
+
+1397305538 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\robotnica.h
+	<iostream>
+	<string.h>
+	"RozszerzonaCzarnaMrowka.h"
+
+1396264119 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\zolnierz.h
+	<iostream>
+	"RozszerzonaCzarnaMrowka.h"
+
+1396265408 c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\statystykaczerwonejmrowki.h
+	<iostream>
+	"CzerwonaMrowka.h"
+
+1396217654 source:c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\mrowka.cpp
+
+1396264277 source:c:\users\anchaj\desktop\informatyka\code_blocks\mrowki\rozszerzonaczarnamrowka.cpp
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1394473863 source:c:\users\anchaj\desktop\informatyka\code_blocks\punkt\main.cpp
+	"punkt.h"
+	"zn.h"
+	"set.h"
+
+1394455660 c:\users\anchaj\desktop\informatyka\code_blocks\punkt\punkt.cpp
+
+1394468797 source:c:\users\anchaj\desktop\informatyka\code_blocks\punkt\punkt.cpp
+	"punkt.h"
+
+1394468466 c:\users\anchaj\desktop\informatyka\code_blocks\punkt\punkt.h
+	<iostream>
+
+1394472294 source:c:\users\anchaj\desktop\informatyka\code_blocks\punkt\zn.cpp
+	"zn.h"
+
+1394472294 c:\users\anchaj\desktop\informatyka\code_blocks\punkt\zn.h
+
+1394471372 c:\users\anchaj\desktop\informatyka\code_blocks\punkt\set.h
+	<iostream>
+
+1394473841 source:c:\users\anchaj\desktop\informatyka\code_blocks\punkt\set.cpp
+	"set.h"
+

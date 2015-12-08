@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1401111402 source:c:\users\anchaj\desktop\informatyka\code_blocks\szablony2\main.cpp
+	<iostream>
+	<math.h>
+	<complex>
+

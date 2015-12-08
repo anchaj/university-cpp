@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1388356775 source:c:\users\anchaj\desktop\informatyka\code_blocks\r1\main.cpp
+	<iostream>
+	"Polynomial.h"
+
+1388356921 c:\users\anchaj\desktop\informatyka\code_blocks\r1\polynomial.h
+	<iostream>
+
+1388356775 source:c:\users\anchaj\desktop\informatyka\code_blocks\r1\polynomial.cpp
+	"Polynomial.h"
+
+1388008095 c:\users\anchaj\desktop\informatyka\code_blocks\r1\polynomial.cpp
+	"polynomial.h"
+
+1388338965 source:c:\users\anchaj\desktop\informatyka\code_blocks\r1\polynomial_bozek.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
